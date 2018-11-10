@@ -1,0 +1,20 @@
+{
+  "name": "diamondproject",
+  "version": "1.0.0",
+  "description": "Diamond",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "keywords": [
+    "diamond"
+  ],
+  "author": "Transformers",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.5"
+  }
+}

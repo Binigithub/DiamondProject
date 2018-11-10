@@ -1,0 +1,55 @@
+{
+
+    "accountInfo" : [
+
+        {
+
+            "fName": "Biniam",
+
+            "lName": "Scrummaster",
+
+            "email": "zcbvz@druster.com",
+
+            "password1": "password",
+
+            "password2": "password",
+
+            "phone":"1234567890"
+
+        },
+
+        {
+
+            "fName": "John",
+
+            "lName": "Scrummasters",
+
+            "email": "zbvzrk@mnnter.com",
+
+            "password1": "password2",
+
+            "password2": "password2",
+
+            "phone":"1234567890"
+
+        },
+
+        {
+
+            "fName": "Rakhat",
+
+            "lName": "Rashka",
+
+            "email": "zbzvpak@masner.com",
+
+            "password1": "password3",
+
+            "password2": "password3",
+
+            "phone":"1234567890"
+
+        }
+
+    ]
+
+    }
